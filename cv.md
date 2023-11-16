@@ -1,42 +1,43 @@
-1. Вадим Митин
+1. Vadim Mitin
 
-    ![мое фото](Mitin.jpg)
+    ![my photo](Mitin.jpg)
 2. email: vadimmitin@mail.ru, telegram: `@WhiteVadim`
-3. Я очень люблю информационные технологии. Работа с ними - это для меня как хобби.
+3. I really love information technology. Working with them is like a hobby for me.
 
-    Мне нравиться решать сложные задачи, требующие связей различных компонент. Нравиться изучать новые технологии в процессе работы над задачами.
+    I like to solve complex tasks that require connections of various components. I like to learn new technologies while working on tasks.
 
-    Работал и программистом, и администратором баз данных, и системным администратором наземной и облачной инфраструктуры, и инженером технической поддержки облака Яндекса. Сейчас занимаюсь поддержкой внутренней аналитической платформы Яндекса.
-4. Навыки
-    * Имеется небольшой давний опыт работы с С, С++, ASM. CLIPPER - очень давно работал в команде над разработкой банковской бухалтерии.
+    I have worked as a programmer, a database administrator, a system administrator of ground and cloud infrastructure, and a technical support engineer for Yandex cloud. Now I am engaged in the support of the internal analytical platform of Yandex.
+4. Skills.
+    * I have a little experience working with c++, ASM. CLIPPER - worked in a team on the development of bank accounting for a very long time. It was a long time ago.
 
-    * Знаю SQL (в основном, Transact SQL).
+    * I know SQL (mostly, Transact SQL).
 
-    * Знаком с основам HTML и CSS, JavaScript.
+    * Familiar with the basics of HTML and CSS, JavaScript.
 
-    * Знаком с основами Python и его библиотеками. 
+    * Familiar with the basics of Python and its libraries.
 
-    * Для автоматизации администрирования создавал скрипты на Powershell, VBScript, JScript, bash, cmd
+    * To automate administration, I created scripts in Powershell, VBScript, JScript, bash, cmd
 
-    * Изучал UML, паттерны проектирования. Знаком с Agile.
-5. Примеров кода.
-    * [Проект резюме](https://vadim-ma.github.io/rsschool-cv/cv)
-6. Опыт работы.
-    * Бухгалтерское приложение для Сбербанка.
-    * Скрипты автоматизации задач администрирования.
-    * SQL-скрипты для администрирования баз данных автоматизированной банковской системы в Сбербанке.
-    * Учебный проект по курсу основы HTML и CSS.
-    * Выпускная работа по курсу "Аналитик данных".
-7. Образование
-    * 1989\. Техникум. Радиомеханик по ремонту бытовой радиоэлектронной аппаратуры.
-    * 2001\. Всероссийский заочный финансово-экономический институт. Специальность - финансы и кредит. 
-    * 1998\. Курс по операционной системе UNIX SCO Open Server. Успешно сдал сертификационные экзамены "Инженер SCO".
-    * 2015\. Курс "Веб-программирование". [Сертификат](https://cert.openedu.ru/downloads/828801267eea4feaaaa27b53d9c57b62/Certificate.pdf)
-    * 2018\. Курс "JavaScript для начинающих". [Сертификат](https://stepik.org/cert/108889)
-    * 2022\. Курс "Интерактивный тренажер по SQL". [Сертификат](https://stepik.org/cert/108889)
-    * 2022\. Курс "Поколение Python". [Сертификат](https://stepik.org/cert/1374639)
-    * 2022\. Диплом о профессионально переподготовке. Курс "Аналитик данных" в Томском университете. [Диплом](https://www.vadima.ru/docs/Диплом_Аналитик_данных.pdf)
-    * 2022\. Программе повышения квалификации «Инженер облачных сервисов». [Удостоверение](https://www.vadima.ru/docs/Диплом_Инженер_облачных_сервисов_20222ИОС01316.pdf)
-8. Английский язык
-    Примерный уровень - B2. 
-    В 2022 году не замечал, на каком языке я читаю техническую статью. Примерно два года почти ежедневно участвовал в митингах международной команды. Общался с сотрудниками из США, Ирландии, Польши, ЮАР, Индии.
+    * Studied UML, design patterns. Familiar with Agile.
+5. Code examples.
+    * [CV project](https://vadim-ma.github.io/rsschool-cv/cv)
+6. Work experience.
+    * Accounting application for Sberbank.
+    * Scripts for automating administrative tasks.
+    * SQL scripts for database administration of automated banking system in Sberbank.
+    * A training project on the basics of HTML and CSS course.
+    * Final work on the course "Data Analyst".
+7. Education.
+    * 1989\. Technical school. Radio mechanic for the repair of household electronic equipment.
+    * 2001\. All-Russian Correspondence Financial and Economic Institute. Specialty - finance and credit. 
+    * 1998\. A course on the UNIX SCO Open Server operating system. Successfully passed the SCO Engineer certification exams.
+    * 2015\. The course "Web programming". [Certificate](https://cert.openedu.ru/downloads/828801267eea4feaaaa27b53d9c57b62/Certificate.pdf)
+    * 2018\. The course "JavaScript for beginners". [Certificate](https://stepik.org/cert/108889)
+    * 2022\. The course "Interactive SQL simulator". [Certificate](https://stepik.org/cert/108889)
+    * 2022\. The course "Python Generation". [Certificate](https://stepik.org/cert/1374639)
+    * 2022\. Diploma of professional retraining. The course "Data Analyst" at Tomsk University. [Diploma](https://s.vadima.ru/my-certs/Диплом_Аналитик_данных.pdf)
+    * 2022\. Advanced training program "Cloud Services Engineer". [Certificate](https://s.vadima.ru/my-certs/Диплом_Инженер_облачных_сервисов_20222ИОС01316.pdf)
+    * 2023\. JS/FE PRE-SCHOOL 2023Q2 (JAVASCRIPT) [Certificate](https://app.rs.school/certificate/x1j69aiy)
+8. English language.
+    The approximate level is B2. 
+    In 2022, I didn't notice in which language I was reading a technical article. For about two years, he participated almost daily in the rallies of the international team. I talked with employees from the USA, Ireland, Poland, South Africa, India.
