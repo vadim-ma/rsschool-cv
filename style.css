@@ -1,0 +1,10 @@
+body {
+    background-color: #deb887;
+}
+nav ul li {
+    display: inline;
+}
+.wrapper-center {
+    width: 800px;
+    margin: auto;
+}
