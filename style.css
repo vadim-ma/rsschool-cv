@@ -1,0 +1,10 @@
+body {
+    width: 600px;
+    margin: 0 auto;
+
+    background-color: #deb887;
+}
+
+nav ul li {
+    display: inline;
+}
